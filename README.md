@@ -1,5 +1,7 @@
-# DS340WGroup30
-Reproduction of research from paper "Predicting the direction of stock market prices using random forest"
+Stock Prediction with Adversarial Training
+Base methodology from research paper "Predicting the direction of stock market prices using random forest"
+
+Implemented adversarial training and saw an average accuracy increase of around 2%
 
 This GitHub repository is for academic purposes only. The materials uploaded here is for a course project on Applied Data Science.
 
@@ -11,4 +13,4 @@ https://github.com/jmartinezheras/reproduce-stock-market-direction-random-forest
 
 The modifications were made by Victor Suhendra and Rohan Pamidimukkla
 
-The dataset AAPL was acquired from yahoo, and is the apple daily stock price changes from January 2016 - March 2022. 
+The datasets were acquired from yahoo, and is the daily stock price changes from January 2016 - March 2022. 
