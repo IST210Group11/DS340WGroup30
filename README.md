@@ -1,4 +1,5 @@
 Stock Prediction with Adversarial Training
+
 Base methodology from research paper "Predicting the direction of stock market prices using random forest"
 
 Implemented adversarial training and saw an average accuracy increase of around 2%
